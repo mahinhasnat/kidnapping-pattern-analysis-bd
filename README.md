@@ -44,7 +44,7 @@ kidnapping-pattern-analysis-bd/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/kidnapping-pattern-analysis-bd.git
+git clone https://github.com/mahinhasnat/kidnapping-pattern-analysis-bd.git
 cd kidnapping-pattern-analysis-bd
 
 # 2. Install dependencies
